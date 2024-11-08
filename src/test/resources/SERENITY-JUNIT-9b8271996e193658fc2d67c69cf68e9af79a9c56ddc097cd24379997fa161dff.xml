@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Word Counter functionality on wordcounter.net" skipped="0" tests="1" time="3.52" timestamp="2024-11-08 01:31:09"><testcase name="Validate keyword density (most repeated words)"><error message="Step [I should see the keyword density as {string}] is defined with 0 parameters at 'steps.HomeStepsDefinition.i_should_see_the_keyword_density_as()'.&#10;However, the gherkin step has 1 arguments:&#10; * &quot;lumu lumu red red blue red&quot;&#10;Step text: I should see the keyword density as &quot;lumu lumu red red blue red&quot;" type="io.cucumber.core.exception.CucumberException">Step [I should see the keyword density as {string}] is defined with 0 parameters at 'steps.HomeStepsDefinition.i_should_see_the_keyword_density_as()'.
+However, the gherkin step has 1 arguments:
+ * "lumu lumu red red blue red"
+Step text: I should see the keyword density as "lumu lumu red red blue red"</error><system-err>Step [I should see the keyword density as {string}] is defined with 0 parameters at 'steps.HomeStepsDefinition.i_should_see_the_keyword_density_as()'.
+However, the gherkin step has 1 arguments:
+ * "lumu lumu red red blue red"
+Step text: I should see the keyword density as "lumu lumu red red blue red"&#13;
+</system-err></testcase></testsuite>
